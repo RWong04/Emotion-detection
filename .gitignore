@@ -1,0 +1,23 @@
+# Python 常用
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoint
+.ipynb_checkpoints
+
+# VSCode/PyCharm 等 IDE 設定
+.vscode/
+.idea/
+
+# Keras/TensorFlow模型檔
+*.h5
+*.keras
+*.ckpt
+model.weights.*
+
+# 本地圖片/影像/資料檔案
+src/fer2013.csv
+src/data/
+*.png
